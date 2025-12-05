@@ -8,21 +8,27 @@ This Privacy Policy explains how the mobile application **DiabiPets** ("App", "w
 
 ---
 
-## 1. General Information
+## 1. User Responsibility
+
+By using DiabiPets, you acknowledge and agree that **all actions, decisions, and data entries in the App are solely your responsibility**. The developer **idoes not provide veterinary advice** and **is not responsible for any consequences** resulting from your use of the App, including pet health, insulin administration, or feeding decisions
+
+
+
+## 2. General Information
 
 DiabiPets is an informational diary for owners of dogs and cats with diabetes. The App is **not intended for diagnosis, treatment, or veterinary decision-making**. The developer ("we") does **not provide veterinary or medical advice** and **is not responsible** for any user decisions or actions related to their pets’ diabetes.
 
 ---
 
-## 2. Explicit Consent / Age Verification
+## 3. Explicit Consent / Age Verification
 
 By using this App, you **confirm that you are at least 16 years old** and that you **agree to this Privacy Policy** and all associated terms of use. If you do not meet these criteria, you should **not use the App**.
 
 ---
 
-## 3. Information We Collect
+## 4. Information We Collect
 
-### 3.1. User-entered data
+### 4.1. User-entered data
 
 The App collects information that users enter manually:
 
@@ -34,11 +40,11 @@ The App collects information that users enter manually:
 
 **No automatic medical or biometric data collection** occurs.
 
-### 3.2. Local storage
+### 4.2. Local storage
 
 All data is stored locally on the user’s device by default.
 
-### 3.3. Cloud synchronization (PREMIUM)
+### 4.3. Cloud synchronization (PREMIUM)
 
 If cloud sync is enabled, data is stored in **Firebase**, associated with the user’s Google account. We:
 
@@ -46,7 +52,7 @@ If cloud sync is enabled, data is stored in **Firebase**, associated with the us
 * **do not access the content** of user records
 * do not share data with third parties, except for Firebase services required for synchronization
 
-### 3.4. Technical data
+### 4.4. Technical data
 
 The App may collect anonymized technical information:
 
@@ -59,7 +65,7 @@ This data is used only to improve the App and fix errors.
 
 ---
 
-## 4. How We Use Data
+## 5. How We Use Data
 
 User-entered data is used solely for:
 
@@ -73,7 +79,7 @@ The App **does not analyze medical data, provide diagnoses, or recommend treatme
 
 ---
 
-## 5. Reminders
+## 6. Reminders
 
 The App creates **local push notifications** for reminders.
 
@@ -88,7 +94,7 @@ Users are responsible for monitoring glucose levels, insulin injections, and fee
 
 ---
 
-## 6. Medical Disclaimer
+## 7. Medical Disclaimer
 
 DiabiPets **is not a medical or veterinary application**. It:
 
@@ -103,7 +109,7 @@ Always consult a licensed veterinarian for any medical decisions.
 
 ---
 
-## 7. Limitation of Liability
+## 8. Limitation of Liability
 
 We are **not responsible** for:
 
@@ -118,7 +124,7 @@ By using the App, users acknowledge that they **use it at their own risk**.
 
 ---
 
-## 8. No Warranty
+## 9. No Warranty
 
 The App is provided **“as is”** without warranties of any kind. We do not guarantee:
 
@@ -129,13 +135,13 @@ The App is provided **“as is”** without warranties of any kind. We do not gu
 
 ---
 
-## 9. Third-Party Services
+## 10. Third-Party Services
 
 The App uses third-party services, including **Firebase** for cloud synchronization and optional analytics services. These services are governed by their **own privacy policies**. We encourage users to review the privacy policies of all third-party services used in the App.
 
 ---
 
-## 10. Data Deletion Instructions
+## 11. Data Deletion Instructions
 
 Premium users can delete their account and all associated data via the **“Delete Account” button** located at the bottom of the settings screen in the App. This action will:
 
@@ -146,19 +152,19 @@ Premium users can delete their account and all associated data via the **“Dele
 
 ---
 
-## 11. Advertising
+## 12. Advertising
 
 Free version may display ads. Premium version removes all advertising.
 
 ---
 
-## 12. Paid Features
+## 13. Paid Features
 
 Premium features are available through in-app purchases. We do not store payment information; all payments are processed via **Google Play / App Store**.
 
 ---
 
-## 13. User Rights
+## 14. User Rights
 
 Users may:
 
@@ -168,25 +174,25 @@ Users may:
 
 ---
 
-## 14. Children
+## 15. Children
 
 The App is **not intended for children under 16**. We do not knowingly collect data from children.
 
 ---
 
-## 15. International Compliance
+## 16. International Compliance
 
 We aim to comply with international privacy regulations, including GDPR (EU) and CCPA (California, USA), where applicable. Users can request deletion of personal data by contacting support.
 
 ---
 
-## 16. Policy Updates
+## 17. Policy Updates
 
 We may update this Policy periodically. Continued use of the App constitutes acceptance of any changes.
 
 ---
 
-## 17. Contact
+## 18. Contact
 
 Questions regarding this Privacy Policy:
 **Email: alexiddev@gmail.com**
